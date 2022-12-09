@@ -1,5 +1,5 @@
-# Parkinson-s-disease-using-FRFE
-## proposed feature selection called "FISHER SCORE BASED RECURSIVE FEATURE ELIMINATION"
+# Parkinson's disease prediction using FRFE
+## proposed feature selection called "FISHER SCORE BASED RECURSIVE FEATURE ELIMINATION" which outperforms most of the existing feature selection techniques.
 Parkinson's disease is a neurological syndrome that manifests slowly and gradually, making it
 difficult to diagnose at an early stage. Voice alterations can be used as a detectable marker of early
 detection. The synthetic minority oversampling technique (SMOTE) is employed to address class
